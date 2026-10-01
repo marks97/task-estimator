@@ -1,0 +1,12 @@
+{
+  "name": "task-estimator",
+  "version": "1.0.0",
+  "description": "Estimate how long a coding task will take, using the user's own measured history instead of intuition.",
+  "author": {
+    "name": "Marc Amoros",
+    "url": "https://github.com/marks97"
+  },
+  "repository": "https://github.com/marks97/task-estimator",
+  "license": "MIT",
+  "skills": "./task-estimator/"
+}
